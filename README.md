@@ -8,7 +8,7 @@ A simple **console-based text editor** built in **C++** that supports:
 - Undo / Redo operations  
 - Displaying and clearing content
 
-This project was created during our **Summer Internship (June–July 2025)** at **Lovely Professional University**, under the guidance of **Dr. Om Prakash Yadav Sir**.
+This project was created during our **Summer Internship (June–July 2025)** at **Lovely Professional University**.
 
 ## 🔧 Features
 
